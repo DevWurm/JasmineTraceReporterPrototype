@@ -1,5 +1,7 @@
 # JasmineTraceReporterPrototype
 
+The Trace Report is logged to the console after the test. Tests can be run with `npm run test`.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.1.
 
 ## Development server
